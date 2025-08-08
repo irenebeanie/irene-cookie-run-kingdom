@@ -1,0 +1,499 @@
+{
+    "levels": {
+
+        "1": {
+            "resonantIngredient": 20,
+            "soulEssence": { "type": "Epic", "amount": 20 },
+            "sugarCrystal": 200
+        },
+
+        "2": {
+            "resonantIngredient": 2,
+            "soulEssence": { "type": "Common", "amount": 20 },
+            "sugarCrystal": 50
+        },
+
+        "3": {
+            "resonantIngredient": 3,
+            "soulEssence": { "type": "Common", "amount": 20 },
+            "sugarCrystal": 54
+        },
+
+        "4": {
+            "resonantIngredient": 4,
+            "soulEssence": { "type": "Common", "amount": 24 },
+            "sugarCrystal": 58
+        },
+
+        "5": {
+            "resonantIngredient": 5,
+            "soulEssence": { "type": "Common", "amount": 24 },
+            "sugarCrystal": 62
+        },
+
+        "6": {
+            "resonantIngredient": 6,
+            "soulEssence": { "type": "Common", "amount": 28 },
+            "sugarCrystal": 66
+        },
+
+        "7": {
+            "resonantIngredient": 7,
+            "soulEssence": { "type": "Common", "amount": 28 },
+            "sugarCrystal": 71
+        },
+
+        "8": {
+            "resonantIngredient": 8,
+            "soulEssence": { "type": "Common", "amount": 32 },
+            "sugarCrystal": 76
+        },
+
+        "9": {
+            "resonantIngredient": 9,
+            "soulEssence": { "type": "Common", "amount": 32 },
+            "sugarCrystal": 81
+        },
+
+        "10": {
+            "resonantIngredient": 10,
+            "soulEssence": { "type": "Rare", "amount": 30 },
+            "sugarCrystal": 86
+        },
+
+        "11": {
+            "resonantIngredient": 12,
+            "soulEssence": { "type": "Rare", "amount": 30 },
+            "sugarCrystal": 92
+        },
+
+        "12": {
+            "resonantIngredient": 14,
+            "soulEssence": { "type": "Rare", "amount": 38 },
+            "sugarCrystal": 96
+        },
+
+        "13": {
+            "resonantIngredient": 16,
+            "soulEssence": { "type": "Rare", "amount": 38 },
+            "sugarCrystal": 104
+        },
+
+        "14": {
+            "resonantIngredient": 18,
+            "soulEssence": { "type": "Rare", "amount": 46 },
+            "sugarCrystal": 111
+        },
+
+        "15": {
+            "resonantIngredient": 20,
+            "soulEssence": { "type": "Rare", "amount": 46 },
+            "sugarCrystal": 118
+        },
+
+        "16": {
+            "resonantIngredient": 22,
+            "soulEssence": { "type": "Rare", "amount": 54 },
+            "sugarCrystal": 126
+        },
+
+        "17": {
+            "resonantIngredient": 24,
+            "soulEssence": { "type": "Epic", "amount": 54 },
+            "sugarCrystal": 134
+        },
+
+        "18": {
+            "resonantIngredient": 26,
+            "soulEssence": { "type": "Epic", "amount": 6 },
+            "sugarCrystal": 143
+        },
+
+        "19": {
+            "resonantIngredient": 28,
+            "soulEssence": { "type": "Epic", "amount": 6 },
+            "sugarCrystal": 152
+        },
+
+        "20": {
+            "resonantIngredient": 30,
+            "soulEssence": { "type": "Epic", "amount": 8 },
+            "sugarCrystal": 162
+        },
+
+        "21": {
+            "resonantIngredient": 32,
+            "soulEssence": { "type": "Epic", "amount": 8 },
+            "sugarCrystal": 172
+        },
+
+        "22": {
+            "resonantIngredient": 34,
+            "soulEssence": { "type": "Epic", "amount": 10 },
+            "sugarCrystal": 183
+        },
+
+        "23": {
+            "resonantIngredient": 36,
+            "soulEssence": { "type": "Epic", "amount": 10 },
+            "sugarCrystal": 195
+        },
+
+        "24": {
+            "resonantIngredient": 38,
+            "soulEssence": { "type": "Epic", "amount": 12 },
+            "sugarCrystal": 207
+        },
+
+        "25": {
+            "resonantIngredient": 40,
+            "soulEssence": { "type": "Epic", "amount": 12 },
+            "sugarCrystal": 220
+        },
+
+        "26": {
+            "resonantIngredient": 42,
+            "soulEssence": { "type": "Epic", "amount": 14 },
+            "sugarCrystal": 234
+        },
+
+        "27": {
+            "resonantIngredient": 44,
+            "soulEssence": { "type": "Epic", "amount": 14 },
+            "sugarCrystal": 249
+        },
+
+        "28": {
+            "resonantIngredient": 46,
+            "soulEssence": { "type": "Legendary", "amount": 2 },
+            "sugarCrystal": 265
+        },
+
+        "29": {
+            "resonantIngredient": 48,
+            "soulEssence": { "type": "Legendary", "amount": 4 },
+            "sugarCrystal": 282
+        },
+
+        "30": {
+            "resonantIngredient": 50,
+            "soulEssence": { "type": "Legendary", "amount": 6 },
+            "sugarCrystal": 300
+        }
+    },
+
+    "candies": [
+        {
+            "cookie": "Espresso",
+            "crystalType": "Arcane",
+            "resonantIngredient": "Concentrated Espresso",
+            "recipeType": "jellybeanRecipe"
+        },
+
+        {
+            "cookie": "Squid Ink",
+            "crystalType": "Arcane",
+            "resonantIngredient": "Ink-stained Coins",
+            "recipeType": "jellybeanRecipe"
+        },
+
+        {
+            "cookie": "Licorice",
+            "crystalType": "Arcane",
+            "resonantIngredient": "Licorice Skull Candy",
+            "recipeType": "jellybeanRecipe"
+        },
+
+        {
+            "cookie": "Cream Puff",
+            "crystalType": "Arcane",
+            "resonantIngredient": "Puffy Little Cream Puffs",
+            "recipeType": "jellybeanRecipe"
+        },
+
+        {
+            "cookie": "Latte",
+            "crystalType": "Arcane",
+            "resonantIngredient": "Bittersweet Latte",
+            "recipeType": "jellybeanRecipe"
+        },
+
+        {
+            "cookie": "Mango",
+            "crystalType": "Arcane",
+            "resonantIngredient": "Ripe Mango Slice",
+            "recipeType": "jellybeanRecipe"
+        },
+
+        {
+            "cookie": "Parfait",
+            "crystalType": "Arcane",
+            "resonantIngredient": "Colorful Parfait",
+            "recipeType": "milkRecipe"
+        },
+
+        {
+            "cookie": "Snow Sugar",
+            "crystalType": "Arcane",
+            "resonantIngredient": "Snow Meringue",
+            "recipeType": "sugarRecipe"
+        },
+
+        {
+            "cookie": "Pine Cone",
+            "crystalType": "Arcane",
+            "resonantIngredient": "Dainty Pine Cone",
+            "recipeType": "woodRecipe"
+        },
+
+        {
+            "cookie": "Blueberry Pie",
+            "crystalType": "Arcane",
+            "resonantIngredient": "Blueberry Pie",
+            "recipeType": "jellybeanRecipe"
+        },
+
+        {
+            "cookie": "Mint Choco",
+            "crystalType": "Arcane",
+            "resonantIngredient": "Clear Dawn Mint",
+            "recipeType": "milkRecipe"
+        },
+
+        {
+            "cookie": "Peppermint",
+            "crystalType": "Arcane",
+            "resonantIngredient": "Refreshing Peppermint",
+            "recipeType": "sugarRecipe"
+        },
+
+        {
+            "cookie": "Sparkling",
+            "crystalType": "Arcane",
+            "resonantIngredient": "Twinkling Sparkling Juice",
+            "recipeType": "sugarRecipe"
+        },
+
+        {
+            "cookie": "Purple Yam",
+            "crystalType": "Strength",
+            "resonantIngredient": "Spiked Sweet Potato",
+            "recipeType": "jellybeanRecipe"
+        },
+
+        {
+            "cookie": "Milk",
+            "crystalType": "Strength",
+            "resonantIngredient": "Calcium Rich Milk",
+            "recipeType": "milkRecipe"
+        },
+
+        {
+            "cookie": "Werewolf",
+            "crystalType": "Strength",
+            "resonantIngredient": "Ash Moonstone",
+            "recipeType": "jellybeanRecipe"
+        },
+
+        {
+            "cookie": "Mala Sauce",
+            "crystalType": "Strength",
+            "resonantIngredient": "Mug of Mala Sauce",
+            "recipeType": "jellybeanRecipe"
+        },
+
+        {
+            "cookie": "Wildberry",
+            "crystalType": "Strength",
+            "resonantIngredient": "Firm Wild Berries",
+            "recipeType": "jellyberryRecipe"
+        },
+
+        {
+            "cookie": "Tea Knight",
+            "crystalType": "Strength",
+            "resonantIngredient": "Sleek Silver Infusers",
+            "recipeType": "sugarRecipe"
+        },
+
+
+        {
+            "cookie": "Black Raisin",
+            "crystalType": "Strength",
+            "resonantIngredient": "Chewy Raisins",
+            "recipeType": "sugarRecipe"
+        },
+
+        {
+            "cookie": "Financier",
+            "crystalType": "Strength",
+            "resonantIngredient": "Buttery Financier",
+            "recipeType": "flourRecipe"
+        },
+
+        {
+            "cookie": "Captain Caviar",
+            "crystalType": "Strength",
+            "resonantIngredient": "Bouncy Caviar",
+            "recipeType": "jellybeanRecipe"
+        },
+
+        {
+            "cookie": "Strawberry Crepe",
+            "crystalType": "Strength",
+            "resonantIngredient": "Sweet Crepe",
+            "recipeType": "jellyberryRecipe"
+        },
+
+        {
+            "cookie": "Dark Choco",
+            "crystalType": "Strength",
+            "resonantIngredient": "Dark Cocoa Bean",
+            "recipeType": "woodRecipe"
+        },
+
+        {
+            "cookie": "Kouign-Amann",
+            "crystalType": "Strength",
+            "resonantIngredient": "Jammy Kougin-Amann",
+            "recipeType": "flourRecipe"
+        },
+
+        {
+            "cookie": "Raspberry",
+            "crystalType": "Strength",
+            "resonantIngredient": "Ruby Raspberry",
+            "recipeType": "jellyberryRecipe"
+        },
+
+        {
+            "cookie": "Vampire",
+            "crystalType": "Swiftness",
+            "resonantIngredient": "Aromatic Grape Juice",
+            "recipeType": "jellybeanRecipe"
+        },
+
+        {
+            "cookie": "Rye",
+            "crystalType": "Swiftness",
+            "resonantIngredient": "Rough Raw Rye",
+            "recipeType": "flourRecipe"
+        },
+
+        {
+            "cookie": "Madeleine",
+            "crystalType": "Swiftness",
+            "resonantIngredient": "Majestic Madeleine",
+            "recipeType": "jellybeanRecipe"
+        },
+
+        {
+            "cookie": "Sorbet Shark",
+            "crystalType": "Swiftness",
+            "resonantIngredient": "Sorbet Icing Fish",
+            "recipeType": "sugarRecipe"
+        },
+
+        {
+            "cookie": "Cream Unicorn",
+            "crystalType": "Swiftness",
+            "resonantIngredient": "Dreamy Pastel Meringue",
+            "recipeType": "milkRecipe"
+        },
+
+        {
+            "cookie": "Twizzly Gummy",
+            "crystalType": "Swiftness",
+            "resonantIngredient": "Twizzt! Gummy",
+            "recipeType": "sugarRecipe"
+        },
+
+        {
+            "cookie": "Caramel Arrow",
+            "crystalType": "Swiftness",
+            "resonantIngredient": "Chewy Tapioca Pearl",
+            "recipeType": "sugarRecipe"
+        },
+
+        {
+            "cookie": "Pastry",
+            "crystalType": "Swiftness",
+            "resonantIngredient": "Pastry Roll",
+            "recipeType": "flourRecipe"
+        },
+
+        {
+            "cookie": "Frilled Jellyfish",
+            "crystalType": "Swiftness",
+            "resonantIngredient": "Fluttering Jelly",
+            "recipeType": "jellybeanRecipe"
+        }
+
+    ],
+
+    "recipes": {
+        "jellybeanRecipe": {
+            "ingredients": {
+                "jellybean": 16,
+                "purity crystal": 3
+            }
+        },
+
+        "milkRecipe": {
+            "ingredients": {
+                "milk": 1,
+                "purity crystal": 3
+            }
+        },
+
+        "sugarRecipe": {
+            "ingredients": {
+                "sugar": 11,
+                "purity crystal": 3
+            }
+        },
+
+        "woodRecipe": {
+            "ingredients": {
+                "wood": 16,
+                "purity crystal": 3
+            }
+        },
+
+        "jellyberryRecipe": {
+            "ingredients": {
+                "jellyberry": 2,
+                "purity crystal": 3
+            }
+        },
+
+        "flourRecipe": {
+            "ingredients": {
+                "flour": 2,
+                "purity crystal": 3
+            }
+        },
+
+        "sugarCrystalRecipe": {
+            "ingredients": {
+                "sugar": 12,
+                "purity crystal": 3
+            }
+        }
+
+    },
+
+    "craftingTimes": {
+        "resonantIngredient": "1:30:00",
+        "ingredients": {
+            "jellybean": "0:00:20",
+            "sugar": "0:00:30",
+            "flour": "0:02:47",
+            "jellyberry": "0:06:40",
+            "milk": "0:14:00",
+            "wood": "0:00:10"
+        },
+        "sugarCrystal": "2:00:00"
+    }
+
+}

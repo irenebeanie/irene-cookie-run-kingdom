@@ -1,0 +1,40 @@
+<!-- error page -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css">
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <link rel="icon" href="/assets/images/misc-elements/espresso-flavicon.ico" type="image/x-icon">
+    <title>Page Not Found | Irene CRK</title>
+</head>
+<body>
+    <div class="content-box">
+
+        <!-- navigation -->
+        <div id="nav-placeholder"></div>
+        <script>
+            $(function() {
+                $("#nav-placeholder").load("/assets/nav.html");
+            });
+        </script>
+
+        <!-- main content -->
+        <div class="main-content">
+            <h1>Error 404: Page Not Found</h1>
+            <p>Irene probably forgot to put something in here... woops..! Here's Espresso instead...</p>
+            <p><img src="/assets/images/misc-elements/espresso-gacha.gif" alt="404 Cookie"></p>
+            <a href="/" style="color: #ce4868; text-decoration: none; font-weight: bold;">← Back to Home</a>
+        </div>
+            
+        <!-- footer -->
+        <footer class="footer">
+            🍪 made with love by <a href="/about">irene</a> ♡🍪
+            <br>🍪 all assets belong to <a href="https://devsisters.com">devsisters</a> 🍪
+        </footer>
+
+    </div>
+</body>
+</html>
